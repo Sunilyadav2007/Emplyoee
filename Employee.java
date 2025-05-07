@@ -2,6 +2,7 @@ public class Employee {
 String name;
 int id;
 double salary;
+int number;
 public Employee(String name, int id,double salary,int number){
     this.name=name;
     this.id=id;
